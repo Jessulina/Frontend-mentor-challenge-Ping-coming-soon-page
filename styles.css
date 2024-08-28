@@ -5,7 +5,7 @@
     --Gray: hsl(0, 0%, 59%);
     --Very-Dark-Blue: hsl(209, 33%, 12%);
 }
-/*general styles*/
+/*ESTILOS GENERALES*/
 * {
     margin: 0;
     padding: 0;
@@ -159,7 +159,7 @@ a {
     font-weight: 300; 
     padding: 10px 0 0 15px;
 }
-/*Media Querys are in process*/
+
 @media (max-width: 375px) {
     #logo {
         margin-top: 50px;
